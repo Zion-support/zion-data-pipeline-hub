@@ -1,18 +1,12 @@
-# Zion App Network — Interlinks
+# Zion App Network — Interlinks for zion-data-pipeline-hub
 
-**This app:** Zion Data Pipeline Hub · https://ziontechgroup.com/zion-data-pipeline-hub/
+Zion Data Pipeline Hub is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-## Batch 43 — Data Engineering & AI Pipelines Suite
-- [zion-data-pipeline-hub](https://github.com/Zion-support/zion-data-pipeline-hub) — https://ziontechgroup.com/zion-data-pipeline-hub/
-- [etl-copilot-ai](https://github.com/Zion-support/etl-copilot-ai) — https://ziontechgroup.com/etl-copilot-ai/
-- [data-quality-guard](https://github.com/Zion-support/data-quality-guard) — https://ziontechgroup.com/data-quality-guard/
-- [stream-analytics-hub](https://github.com/Zion-support/stream-analytics-hub) — https://ziontechgroup.com/stream-analytics-hub/
-- [data-catalog-ai](https://github.com/Zion-support/data-catalog-ai) — https://ziontechgroup.com/data-catalog-ai/
-- [warehouse-optimizer-ai](https://github.com/Zion-support/warehouse-optimizer-ai) — https://ziontechgroup.com/warehouse-optimizer-ai/
+- Live app: https://ziontechgroup.com/zion-data-pipeline-hub/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 51 spotlight (Data Engineering & Observability): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH51.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch51-sept26.html
 
-## Network hub
-- Hub repo: https://github.com/Zion-support/zion-app-network
-- Full index: [APPS_INDEX.md](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md) · [CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Batch 42 (AI Agents & Platform): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-25-BATCH42.md
+## Related data apps
+[ETL Copilot AI](https://ziontechgroup.com/etl-copilot-ai/) · [Data Quality Guard](https://ziontechgroup.com/data-quality-guard/) · [Stream Analytics Hub](https://ziontechgroup.com/stream-analytics-hub/) · [Warehouse Optimizer AI](https://ziontechgroup.com/warehouse-optimizer-ai/) · [Data Catalog AI](https://ziontechgroup.com/data-catalog-ai/) · [Metric Anomaly Alerter](https://ziontechgroup.com/metric-anomaly-alerter/) · [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/)
 
-— © 2026 Zion Tech Group · https://ziontechgroup.com
+© 2026 Zion Tech Group · https://ziontechgroup.com
